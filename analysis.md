@@ -1,7 +1,7 @@
 # Group Members
-1.Sumaio Abdullahi Rage (1713874).
-2.Hamid Mashal (1824220).
-3.Furqan Said Hassan(1724546).
+# 1.Sumaio Abdullahi Rage (1713874).
+# 2.Hamid Mashal (1824220).
+# 3.Furqan Said Hassan(1724546).
 
 # Introduction
 CPU Scheduling is a process of determining which process will use the CPU for execution while another process waits. One of CPU scheduling’s aims is to make the system efficient, fast, and fair amongst tasks. The main task of CPU scheduling is to ensure that the Operating System will select one of the processes available in the ready queue for execution which will be carried out by the CPU scheduler whenever the CPU remains idle. There are two types of CPU scheduling which are pre-emptive and non-pre-emptive. However, for this project, our focus is going to be on non-preemptive scheduling and the Algorithms that we chose were SJF (Shortest Job First) and Priority Scheduling. 
